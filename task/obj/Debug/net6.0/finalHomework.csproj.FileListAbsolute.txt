@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\Новая папка\finalHomework\bin\Debug\net6.0\finalHomework.exe
+C:\Users\acer\Desktop\Новая папка\finalHomework\bin\Debug\net6.0\finalHomework.deps.json
+C:\Users\acer\Desktop\Новая папка\finalHomework\bin\Debug\net6.0\finalHomework.runtimeconfig.json
+C:\Users\acer\Desktop\Новая папка\finalHomework\bin\Debug\net6.0\finalHomework.dll
+C:\Users\acer\Desktop\Новая папка\finalHomework\bin\Debug\net6.0\finalHomework.pdb
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.AssemblyInfo.cs
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.dll
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\refint\finalHomework.dll
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.pdb
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\finalHomework.genruntimeconfig.cache
+C:\Users\acer\Desktop\Новая папка\finalHomework\obj\Debug\net6.0\ref\finalHomework.dll
